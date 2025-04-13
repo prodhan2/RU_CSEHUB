@@ -1,0 +1,290 @@
+[
+  {
+    "title": "Technical and Communicative English",
+    "short": "TACE"
+  },
+  {
+    "title": "Differential and Integral Calculus",
+    "short": "DAIC"
+  },
+  {
+    "title": "Chemistry",
+    "short": "C"
+  },
+  {
+    "title": "Basic Electronics",
+    "short": "BE"
+  },
+  {
+    "title": "Introduction to Computer Systems",
+    "short": "ITCS"
+  },
+  {
+    "title": "Computer Maintenance and Engineering Drawing Lab",
+    "short": "CMAEDL"
+  },
+  {
+    "title": "Structural Programming Language Lab",
+    "short": "SPLL"
+  },
+  {
+    "title": "Engineering Economics",
+    "short": "EE"
+  },
+  {
+    "title": "Statistics for Engineers",
+    "short": "SFE"
+  },
+  {
+    "title": "Co-ordinate Geometry, Vector analysis and Complex Variable",
+    "short": "CGVAACV"
+  },
+  {
+    "title": "Basic Electricity and Electrical Circuits",
+    "short": "BEAEC"
+  },
+  {
+    "title": "Introduction to Digital Electronics",
+    "short": "ITDE"
+  },
+  {
+    "title": "Introduction to Digital Electronics Lab",
+    "short": "ITDEL"
+  },
+  {
+    "title": "Object Oriented Programming Lab",
+    "short": "OOPL"
+  },
+  {
+    "title": "Industrial Management and Accountancy",
+    "short": "IMAA"
+  },
+  {
+    "title": "Theory of Statistics",
+    "short": "TOS"
+  },
+  {
+    "title": "Differential Equations and Optimization",
+    "short": "DEAO"
+  },
+  {
+    "title": "Digital System Design",
+    "short": "DSD"
+  },
+  {
+    "title": "Digital System Design Lab",
+    "short": "DSDL"
+  },
+  {
+    "title": "Data Structure",
+    "short": "DS"
+  },
+  {
+    "title": "Data Structure Lab",
+    "short": "DSL"
+  },
+  {
+    "title": "Discrete Mathematics",
+    "short": "DM"
+  },
+  {
+    "title": "Writing Professional Code Lab",
+    "short": "WPCL"
+  },
+  {
+    "title": "Cyber and Intellectual Property Law",
+    "short": "CAIPL"
+  },
+  {
+    "title": "Numerical Methods",
+    "short": "NM"
+  },
+  {
+    "title": "Numerical Methods Lab 2",
+    "short": "NML2"
+  },
+  {
+    "title": "Linear Algebra",
+    "short": "LA"
+  },
+  {
+    "title": "Theory of Computation",
+    "short": "TOC"
+  },
+  {
+    "title": "Design and Analysis of Algorithms",
+    "short": "DAAOA"
+  },
+  {
+    "title": "Design and Analysis of Algorithms Lab",
+    "short": "DAAOAL"
+  },
+  {
+    "title": "Computer Architecture and Organization",
+    "short": "CAAO"
+  },
+  {
+    "title": "Computer Architecture and Organization Lab",
+    "short": "CAAOL"
+  },
+  {
+    "title": "Technical Writing and Presentation",
+    "short": "TWAP"
+  },
+  {
+    "title": "Web Application Development Lab",
+    "short": "WADL"
+  },
+  {
+    "title": "Software Engineering",
+    "short": "SE"
+  },
+  {
+    "title": "Software Engineering Lab",
+    "short": "SEL"
+  },
+  {
+    "title": "Database Management Systems",
+    "short": "DMS"
+  },
+  {
+    "title": "Database Management Systems Lab",
+    "short": "DMSL"
+  },
+  {
+    "title": "Web Engineering",
+    "short": "WE"
+  },
+  {
+    "title": "Web Engineering Lab",
+    "short": "WEL"
+  },
+  {
+    "title": "Compiler Design",
+    "short": "CD"
+  },
+  {
+    "title": "Compiler Design Lab",
+    "short": "CDL"
+  },
+  {
+    "title": "Engineering Ethics and Environment Protection",
+    "short": "EEAEP"
+  },
+  {
+    "title": "Communication Engineering",
+    "short": "CE"
+  },
+  {
+    "title": "Mobile Application Development Lab",
+    "short": "MADL"
+  },
+  {
+    "title": "Project Planning & Management",
+    "short": "PPM"
+  },
+  {
+    "title": "Digital Signal Processing",
+    "short": "DSP"
+  },
+  {
+    "title": "Digital Signal Processing Lab",
+    "short": "DSPL"
+  },
+  {
+    "title": "Microprocessor and Assembly Language",
+    "short": "MAAL"
+  },
+  {
+    "title": "Microprocessor and Assembly Language Lab",
+    "short": "MAALL"
+  },
+  {
+    "title": "Operating Systems",
+    "short": "OS"
+  },
+  {
+    "title": "Operating Systems Lab",
+    "short": "OSL"
+  },
+  {
+    "title": "Computer Networks",
+    "short": "CN"
+  },
+  {
+    "title": "Computer Networks Lab",
+    "short": "CNL"
+  },
+  {
+    "title": "Parallel Processing and Distributed System",
+    "short": "PPADS"
+  },
+  {
+    "title": "Parallel Processing and Distributed System Lab",
+    "short": "PPADSL"
+  },
+  {
+    "title": "Object Oriented Design and Design Patterns",
+    "short": "OODADP"
+  },
+  {
+    "title": "Object Oriented Design and Design Patterns Lab",
+    "short": "OODADPL"
+  },
+  {
+    "title": "Artificial Intelligence",
+    "short": "AI"
+  },
+  {
+    "title": "Artificial Intelligence Lab",
+    "short": "AIL"
+  },
+  {
+    "title": "Microprocessor Interfacing and Microcontrollers",
+    "short": "MIAM"
+  },
+  {
+    "title": "Microprocessor Interfacing and Microcontrollers Lab",
+    "short": "MIAML"
+  },
+  {
+    "title": "Computational Geometry",
+    "short": "CG"
+  },
+  {
+    "title": "Computational Geometry Lab",
+    "short": "CGL"
+  },
+  {
+    "title": "Digital Image Processing",
+    "short": "DIP"
+  },
+  {
+    "title": "Digital Image Processing Lab",
+    "short": "DIPL"
+  },
+  {
+    "title": "Computer Simulation and Modeling",
+    "short": "CSAM"
+  },
+  {
+    "title": "Computer Simulation and Modeling Lab",
+    "short": "CSAML"
+  },
+  {
+    "title": "UI UX Engineering",
+    "short": "UUE"
+  },
+  {
+    "title": "UI UX Engineering Lab",
+    "short": "UUEL"
+  },
+  {
+    "title": "Blockchain",
+    "short": "B"
+  },
+  {
+    "title": "Blockchain Lab",
+    "short": "BL"
+  }
+]
